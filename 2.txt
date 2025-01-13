@@ -1,2 +1,3 @@
 adding text1 for file 2
 adding text 2 for file 2 commit 2
+adding text 3 for file 2 commit 3 + pr2

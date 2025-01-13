@@ -1,1 +1,2 @@
 adding text1 for file 2
+adding text 2 for file 2 commit 2
